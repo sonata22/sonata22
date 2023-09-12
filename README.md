@@ -61,3 +61,19 @@
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sonata22&hide_border=true" />
 </details>
+
+
+## 📘 My top open source projects
+
+<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+<p align="center">
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+  <p align="center">&#8192;</p>
+  <p style="widht: 100%;" align="center">
+    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+  </p>
+</p>
