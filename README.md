@@ -10,22 +10,22 @@
         <td></td>
       </tr>
       <tr>
-        <td><img src="https://vectorflags.s3.amazonaws.com/flags/us-square-01.png" height="15"></td>
+        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/usa.png" height="15"></td>
         <td>English</td>
         <td>★★★</td>
       </tr>
       <tr>
-        <td><img src="https://vectorflags.s3.amazonaws.com/flags/ua-square-01.png" height="15"></td>
+        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/ukr.png" height="15"></td>
         <td>Ukrainian</td>
         <td>★★★</td>
       </tr>
       <tr>
-        <td><img src="https://vectorflags.s3.amazonaws.com/flags/fi-square-01.png" height="15"></td>
+        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/fin.png" height="15"></td>
         <td>Finnish</td>
         <td>★☆☆</td>
       </tr>
       <tr>
-        <td><img src="https://i.pinimg.com/originals/e1/08/a0/e108a008db879aee5b7ceb548f0e42fd.jpg" height="15"></td>
+        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/germ.png" height="15"></td>
         <td>German</td>
         <td>★☆☆</td>
       </tr>
