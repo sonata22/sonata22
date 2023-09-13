@@ -1,16 +1,19 @@
-<h1 align="center">Hi 👋🏻, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko</a></h1>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-sosnovshchenko-38148a176/)
-
-<!--
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/sonata22/)
-
+<!-- An alternative to current title
+<h1 align="center">Hi 👋🏻, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko</a></h1>
 -->
 
+<p>
+  <a href="https://github.com/sonata22" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sonata22-181717?style=flat-square&logo=GitHub&logoColor=black&labelColor=E7ECF0&color=f4f4f4">
+  </a>
+  <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko-38148a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=E7ECF0&color=f4f4f4">
+  </a>
+  <a href="" target="mailto:nataliia.sosnovshchenko@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nataliia.sosnovshchenko@gmail.com-181717?style=flat-square&logo=gmail&logoColor=E34133&labelColor=E7ECF0&color=f4f4f4">
+  </a>
+</p>
 
 <table align="right">
     <tbody>
@@ -47,8 +50,16 @@
     </tbody>
 </table>
 
-### 🛠 Tech Stack:
+<h2 align="center">🛠 Tech Stack:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,jenkins,linux,postman,vscode" />
+</p>
 
+<!--
 <a href="https://isocpp.org/get-started">
     <img height="30"                             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp">
 </a>
@@ -67,6 +78,7 @@
 <a href="https://git-scm.com/">
     <img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git">
 </a>
+-->
 
 ### Projects and Dev Stuffs:
 
