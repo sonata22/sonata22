@@ -15,7 +15,29 @@
   </a>
 </p>
 
-<table align="left">
+> <table align="left" border=1>
+  <tbody>
+    <tr>
+      <td align="center">
+        Contact me
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="" target="mailto:nataliia.sosnovshchenko@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nataliia.sosnovshchenko@gmail.com-181717?style=flat-square&logo=gmail&logoColor=E34133&labelColor=white&color=f4f4f4">
+        </a>
+        <br/>
+        <a href="https://github.com/sonata22" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sonata22-181717?style=flat-square&logo=GitHub&logoColor=black&labelColor=white&color=f4f4f4">
+        </a>
+        <br/>
+        <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko-38148a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=white&color=f4f4f4">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
   <tbody>
     <tr>
       <td align="center">
@@ -42,7 +64,7 @@
   </tbody>
 </table>
 
-<table align="center">
+<table>
     <tbody>
       <tr>
         <td></td>
