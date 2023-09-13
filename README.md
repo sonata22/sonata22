@@ -118,7 +118,7 @@
 
 <!--
 <a href="https://isocpp.org/get-started">
-    <img height="30"                             src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp">
+    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp">
 </a>
 <a href="https://www.javascript.com/">
     <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
@@ -137,7 +137,7 @@
 </a>
 -->
 
-<h1></h1>
+<h2 align="center">Licenses & certifications</h2>
 
 ### Projects and Dev Stuffs:
 <details>	
@@ -156,7 +156,7 @@
 </details>
 
 
-## 📘 My top open source projects
+## 📘 My portfolio projects
 
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
