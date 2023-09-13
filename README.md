@@ -2,6 +2,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nataliia-sosnovshchenko-38148a176/)
 
+<!--
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+</div>
+
+[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/sonata22/)
+
+-->
+
+
 <table align="right">
     <tbody>
       <tr>
