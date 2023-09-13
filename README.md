@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋🏻, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko</a></h1>
 -->
 
-<p>
+<!--
   <a href="https://github.com/sonata22" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sonata22-181717?style=flat-square&logo=GitHub&logoColor=black&labelColor=E7ECF0&color=f4f4f4">
   </a>
   <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko-38148a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=E7ECF0&color=f4f4f4">
@@ -14,8 +14,11 @@
   <a href="" target="mailto:nataliia.sosnovshchenko@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nataliia.sosnovshchenko@gmail.com-181717?style=flat-square&logo=gmail&logoColor=E34133&labelColor=E7ECF0&color=f4f4f4">
   </a>
 </p>
+-->
 
-> <table align="left" border=1>
+<h2 align="center">Full-Stack Developer</h2>
+
+<table align="center" border=0 >
   <tbody>
     <tr>
       <td align="center">
@@ -37,7 +40,7 @@
   </tbody>
 </table>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td align="center">
@@ -64,7 +67,7 @@
   </tbody>
 </table>
 
-<table>
+<table align="center">
     <tbody>
       <tr>
         <td></td>
