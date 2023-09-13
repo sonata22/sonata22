@@ -15,7 +15,34 @@
   </a>
 </p>
 
-<table align="right">
+<table align="left">
+  <tbody>
+    <tr>
+      <td align="center">
+        <p>
+          Tech Stack
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=figma,ps,jenkins,linux,postman,vscode" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table align="center">
     <tbody>
       <tr>
         <td></td>
@@ -50,6 +77,7 @@
     </tbody>
 </table>
 
+<!--
 <h2 align="center">Tech Stack:</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" />
@@ -58,6 +86,7 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=figma,ps,jenkins,linux,postman,vscode" />
 </p>
+-->
 
 <!--
 <a href="https://isocpp.org/get-started">
@@ -80,8 +109,9 @@
 </a>
 -->
 
-### Projects and Dev Stuffs:
+<h1></h1>
 
+### Projects and Dev Stuffs:
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
