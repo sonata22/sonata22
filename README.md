@@ -1,11 +1,40 @@
-<div style="width: 100%;">
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
-<!-- An alternative to current title
 <h1 align="center">Hi 👋🏻, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko</a></h1>
--->
 
+
+<!--
+
+Last book I've read:
+--------------------
+
+> Here is a quote
+
+> Here is paragraph 1
+>
+> Here is paragraph 2
+
+> First
+> Second
+>> - Third
+>> - Forth
+> Fifth
+
+1. first
+2. second
+    1. third
+    2. forth
+7. fifth
+
+* d
+* d
+    * w
+
+![Tux](lang_icons/germ.png)
+
+At the command prompt, type `nano`.
+
+---
+
+-->
 
 <p align="center">
   <a href="https://github.com/sonata22" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sonata22-181717?style=flat-square&logo=GitHub&logoColor=black&labelColor=E7ECF0&color=f4f4f4">
@@ -16,6 +45,20 @@
   </a>
 </p>
 
+<!--
+<h4 align="center">Programming Languages: </h4>
+<p align="center">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/>
+</p>
+
+<h4 align="center">Skills and Tools: </h4>
+<p align="center">
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+</p>
+-->
 
 <h2 align="center">Full-Stack Developer</h2>
 
@@ -155,6 +198,35 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sonata22&hide_border=true" />
 </details>
 
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 11 Pro</li>
+	    <li><b>Laptop: </b> HP Pavilion</li>
+  	    <li><b>Browser: </b> Chrome</li>
+	    <!--<li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>-->
+	    <li><b>Code Editor:</b> VSCode</li>
+ 	    <!--<li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>-->
+	    <!--<li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>-->
+	</ul>
+</details>
+
+<!--
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 💬 &nbsp; Ask me anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: I use VS Code in light mode.
+- 📫 &nbsp; Reach me out: pavangandhi100@gmail.com.
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+-->
 
 ## 📘 My portfolio projects
 
