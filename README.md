@@ -18,7 +18,7 @@
         <td>★★★</td>
       </tr>
 	<tr>
-        <td>:eyes:</td>
+        <td>:speech_balloon:</td>
         <td>Russian</td>
         <td>★★★</td>
       </tr>
