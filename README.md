@@ -39,7 +39,7 @@
 
 #### Talking about Personal Stuff:
 
-- :herb: &nbsp; I’m currently working with JS.
+- :herb: &nbsp; I’m currently working with JS, JSX, C++, typescript, CSS, HTML.
 - :dragon: &nbsp; I’m currently exploring [Full-Stack course](https://fullstackopen.com/en/) from Helsinki University.
 - :bug: &nbsp; One fact: I use VS Code in light mode.
 - :hatched_chick: &nbsp; Reach me out: <nataliia.sosnovshchenko@gmail.com>.
