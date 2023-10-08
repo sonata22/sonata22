@@ -74,19 +74,28 @@
 
 ---
 
-> #### Last tech book I've read:
+> #### Last Tech Books I've Read:
 
-<p align="left">
-  	<img src="https://mdg.imgix.net/assets/images/book-cover.jpg?auto=format&fit=clip&q=40&w=1080" alt=theMarkdownGuide height="200"/>
-	</br>
- 	<a href="https://github.com/mattcone/markdown-guide-book" target="_blank">
-		<strong>The Markdown Guide</strong>
-	</a>
-	</br>
-	<em>By Matt Cone</em>
-</p>
+<table>
+	<tbody>
+		<tr>
+			<th>#</th>
+			<th>Title</th>
+			<th>Author</th>
+			<th>Date Finished</th>
+		</tr>
+		<tr>
+			<td><img src="https://mdg.imgix.net/assets/images/book-cover.jpg?auto=format&fit=clip&q=40&w=1080" alt=theMarkdownGuide height="55"/></td>
+			<td><a href="https://github.com/mattcone/markdown-guide-book" target="_blank"><strong>The Markdown Guide</strong></a></td>
+			<td><em>By Matt Cone</em></td>
+			<td>September 22, 2023</td>
+		</tr>
+	</tbody>
+</table>
 
+<!--
 <h2 align="center">Licenses & certifications</h2>
+-->
 
 ### Projects and Dev Stuffs:
 <details>	
