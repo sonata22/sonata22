@@ -3,9 +3,9 @@
 <table align="right">
     <tbody>
       <tr>
-        <th></th>
+        <th>#</th>
         <th>Languages</th>
-        <th></th>
+        <th>Lvl</th>
       </tr>
       <tr>
         <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/usa.png" height="15"></td>
@@ -37,14 +37,14 @@
 
 > ### Welcome! :smiley: It's so nice to see you here!
 
-#### Talking about Personal Stuff:
+### Talking about Personal Stuff:
 
 - :herb: &nbsp; I’m currently working with JS, JSX, C++, typescript, CSS, HTML.
 - :dragon: &nbsp; I’m currently exploring [Full-Stack course](https://fullstackopen.com/en/) from Helsinki University.
 - :bug: &nbsp; One fact: I use VS Code in light mode.
 - :hatched_chick: &nbsp; Reach me out: <nataliia.sosnovshchenko@gmail.com>.
 
-#### My Absolute Favorites:
+### My Absolute Favorites:
 
 - :fried_shrimp: &nbsp; I love exploring new technologies and building cool stuff.
 - :art: &nbsp; Reading, drawing, writing code & studying whenever possible.
@@ -74,7 +74,7 @@
 
 ---
 
-> #### Last Tech Books I've Read:
+> ### Last Tech Books I've Read:
 
 <table>
 	<tbody>
