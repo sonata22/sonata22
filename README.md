@@ -85,6 +85,12 @@
 			<th>Date Finished</th>
 		</tr>
 		<tr>
+			<td><img src="https://github.com/getify/You-Dont-Know-JS/raw/1st-ed/up%20%26%20going/cover.jpg" alt=YDKJS_book1 height="55"/></td>
+			<td><a href="https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going" target="_blank"><strong>You Don't Know JS: Up & Going</strong></a></td>
+			<td><em>Kyle Simpson</em></td>
+			<td>In Progress</td>
+		</tr>
+		<tr>
 			<td><img src="https://mdg.imgix.net/assets/images/book-cover.jpg?auto=format&fit=clip&q=40&w=1080" alt=theMarkdownGuide height="55"/></td>
 			<td><a href="https://github.com/mattcone/markdown-guide-book" target="_blank"><strong>The Markdown Guide</strong></a></td>
 			<td><em>By Matt Cone</em></td>
