@@ -68,7 +68,7 @@
 
 <p align="center">
   	<img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" alt=programmingLanguages width=100% height="55"/>
-	<img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git" alt=skillsAndTools width=100% height="55"/>
+	<img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git,nodejs" alt=skillsAndTools width=100% height="55"/>
 	<img src="https://skillicons.dev/icons?i=figma,ps,jenkins,linux,postman,vscode" alt=other width=100% height="55"/>
 </p>
 
