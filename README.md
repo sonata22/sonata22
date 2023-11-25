@@ -66,6 +66,54 @@
 	<code>Programming Languages & Skills & Tools</code>
 </p>
 
+<!--
+<code>Programming Languages</code>
+C++
+JavaScript
+TypeScript
+Bash
+
+<code>Markup Languages</code>
+HTML
+Markdown
+
+<code>Stylesheet Languages</code>
+CSS
+
+<code>JavaScript Libraries</code>
+React
+Redux
+
+<code>Runtime Environments</code>
+Node.js
+
+<code>Frameworks</code>
+Material UI
+
+<code>Version Control Systems</code>
+git
+
+<code>Tools</code>
+- Design
+Figma
+Photoshop
+- API
+Postman
+Talend API Tester
+VS Code REST Client
+
+<code>Operating Systems</code>
+Linux
+Windows
+MacOS
+
+<code>IDE</code>
+VS Code
+
+<code>Other</code>
+Jenkins
+-->
+
 <p align="center">
   	<img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" alt=programmingLanguages width=100% height="55"/>
 	<img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git" alt=skillsAndTools width=100% height="55"/>
