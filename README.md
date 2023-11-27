@@ -1,31 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko:sparkles:</a></h1>
 
-### Talking about Personal Stuff:
-
-- :herb: &nbsp; I’m currently working with JS, JSX, C++, typescript, CSS, HTML.
-- :dragon: &nbsp; I’m currently exploring [Full-Stack course](https://fullstackopen.com/en/) from Helsinki University.
-- :bug: &nbsp; One fact: I use VS Code in light mode.
-- :hatched_chick: &nbsp; Reach me out: <nataliia.sosnovshchenko@gmail.com>.
-
-### My Absolute Favorites:
-
-- :fried_shrimp: &nbsp; I love exploring new technologies and building cool stuff.
-- :art: &nbsp; Reading, drawing, writing code & studying whenever possible.
-- :ramen: &nbsp; Introvert meetups & Tech Events.
-
-<!--
-<p align="center">
-  	<a href="https://github.com/sonata22" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sonata22-181717?style=flat-square&logo=GitHub&logoColor=black&labelColor=E7ECF0&color=f4f4f4">
-  	</a>
-  	<a href="https://www.linkedin.com/in/nataliia-sosnovshchenko-38148a176/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=E7ECF0&color=f4f4f4">
-  	</a>
-  	<a href="" target="mailto:nataliia.sosnovshchenko@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nataliia.sosnovshchenko@gmail.com-181717?style=flat-square&logo=gmail&logoColor=E34133&labelColor=E7ECF0&color=f4f4f4">
- 	</a>
-</p>
--->
-
----
-
 <h3 align="center">
 Skills & Tools
 </h3>
@@ -106,8 +80,8 @@ Operating Systems:
 
 <p align="center">
 	English: <code>Advanced</code><br>
-	Ukrainian: <code>Native, 1st</code><br>
-	Russian: <code>Native, 2nd</code><br>
+	Ukrainian: <code>1st</code> <code>Native</code><br>
+	Russian: <code>2nd</code> <code>Native</code><br>
 	German: <code>Elementary</code><br>
 	Finnish: <code>Beginner</code><br>
 </p>
