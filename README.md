@@ -1,42 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko:sparkles:</a></h1>
 
-<table align="right">
-    <tbody>
-      <tr>
-        <th>#</th>
-        <th>Languages</th>
-        <th>Lvl</th>
-      </tr>
-      <tr>
-        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/usa.png" height="15"></td>
-        <td>English</td>
-        <td>★★★</td>
-      </tr>
-      <tr>
-        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/ukr.png" height="15"></td>
-        <td>Ukrainian</td>
-        <td>★★★</td>
-      </tr>
-	<tr>
-        <td>:speech_balloon:</td>
-        <td>Russian</td>
-        <td>★★★</td>
-      </tr>
-	<tr>
-        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/germ.png" height="15"></td>
-        <td>German</td>
-        <td>★☆☆</td>
-      </tr>
-      <tr>
-        <td><img src="https://github.com/sonata22/sonata22/blob/main/lang_icons/fin.png" height="15"></td>
-        <td>Finnish</td>
-        <td>★☆☆</td>
-      </tr>
-    </tbody>
-</table>
-
-> ### Welcome! :smiley: It's so nice to see you here!
-
 ### Talking about Personal Stuff:
 
 - :herb: &nbsp; I’m currently working with JS, JSX, C++, typescript, CSS, HTML.
@@ -137,19 +100,23 @@ Operating Systems:
 <code>Windows</code>
 <code>MacOS</code>
 
-<!--
+---
+
+<h3 align="center">Languages</h3>
+
 <p align="center">
-  	<img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" alt=programmingLanguages width=100% height="55"/>
-	<img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git" alt=skillsAndTools width=100% height="55"/>
-	<img src="https://skillicons.dev/icons?i=figma,ps,jenkins,linux,postman,vscode" alt=other width=100% height="55"/>
+	English: Advanced<br>
+	Ukrainian: Native<br>
+	Russian: 2nd Native<br>
+	German: Elementary<br>
+	Finnish: Beginner<br>
 </p>
--->
 
 ---
 
-<details>	
+<details align="center">	
   <summary><b>📚 Last Tech Books I've Read</b></summary>
-	<table>
+	<table align="center">
 	<tbody>
 		<tr>
 			<th>#</th>
