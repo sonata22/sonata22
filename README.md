@@ -111,6 +111,14 @@ Tools
 <code>TestRail</code>
 - Network Packet Analyzers:
 <code>Wireshark</code>
+- Other:
+<code>Mermaid</code>
+	<sup>
+ 		<a href="https://mermaid.js.org/#/" target="_blank">s</a>
+ 	</sup>
+  	<sup>
+   		<a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a>
+ 	</sup>
 
 IDE:
 <code>VS Code</code>
