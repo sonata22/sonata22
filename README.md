@@ -62,63 +62,78 @@
  	</a>
 </p>
 
-<p align="center">
-	<code>Programming Languages & Skills & Tools</code>
-</p>
+<h3 align="center">
+Skills & Tools
+</h3>
+
+Programming Languages:
+<code>C++</code>
+<code>JavaScript</code>
+<code>TypeScript</code>
+<code>Bash</code>
+
+Markup Languages:
+<code>HTML</code>
+<code>Markdown</code>
+
+Stylesheet Languages:
+<code>CSS</code>
+
+JavaScript Libraries:
+<code>React</code>
+<code>Redux</code>
+
+Runtime Environments:
+<code>Node.js</code>
+
+Frameworks:
+<code>Material UI</code>
+
+Version Control Systems:
+<code>git</code>
+
+Tools
+- Design:
+<code>Figma</code>
+<code>Photoshop</code>
+- API:
+<code>Postman</code>
+<code>Talend API Tester</code>
+<code>VS Code REST Client</code>
+- Databases:
+<code>MongoDB</code>
+<code>DBeaver</code>
+<code>Microsoft Access</code>
+- Project & Test Case Management:
+<code>Jira</code>
+<code>Zephyr for Jira</code>
+<code>TestRail</code>
+- Network Packet Analyzers:
+<code>Wireshark</code>
+
+IDE:
+<code>VS Code</code>
+
+Code Collaboration Tools:
+<code>GitHub</code>
+<code>Gerrit</code>
+
+SDLC Models:
+<code>Scrum</code>
+<code>Kanban</code>
+
+Operating Systems:
+<code>Linux</code>
+<code>Windows</code>
+<code>MacOS</code>
 
 <!--
-<code>Programming Languages</code>
-C++
-JavaScript
-TypeScript
-Bash
-
-<code>Markup Languages</code>
-HTML
-Markdown
-
-<code>Stylesheet Languages</code>
-CSS
-
-<code>JavaScript Libraries</code>
-React
-Redux
-
-<code>Runtime Environments</code>
-Node.js
-
-<code>Frameworks</code>
-Material UI
-
-<code>Version Control Systems</code>
-git
-
-<code>Tools</code>
-- Design
-Figma
-Photoshop
-- API
-Postman
-Talend API Tester
-VS Code REST Client
-
-<code>Operating Systems</code>
-Linux
-Windows
-MacOS
-
-<code>IDE</code>
-VS Code
-
-<code>Other</code>
-Jenkins
--->
-
 <p align="center">
   	<img src="https://skillicons.dev/icons?i=cpp,js,html,typescript,bash" alt=programmingLanguages width=100% height="55"/>
 	<img src="https://skillicons.dev/icons?i=css,react,redux,nodejs,materialui,git" alt=skillsAndTools width=100% height="55"/>
 	<img src="https://skillicons.dev/icons?i=figma,ps,jenkins,linux,postman,vscode" alt=other width=100% height="55"/>
 </p>
+-->
 
 ---
 
