@@ -53,6 +53,7 @@
 
 ---
 
+<!--
 <p align="center">
   	<a href="https://github.com/sonata22" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@sonata22-181717?style=flat-square&logo=GitHub&logoColor=black&labelColor=E7ECF0&color=f4f4f4">
   	</a>
@@ -61,6 +62,19 @@
   	<a href="" target="mailto:nataliia.sosnovshchenko@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-nataliia.sosnovshchenko@gmail.com-181717?style=flat-square&logo=gmail&logoColor=E34133&labelColor=E7ECF0&color=f4f4f4">
  	</a>
 </p>
+-->
+
+<h3 align="center">
+Contact Me
+</h3>
+
+<p align="center">
+	LinkedIn <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko/" target="_blank">Nataliia Sosnovshchenko</a>
+	<br>
+	Email: <a href="mailto:nataliia.sosnovshchenko@gmail.com" target="_blank">nataliia.sosnovshchenko@gmail.com</a>
+</p>
+
+---
 
 <h3 align="center">
 Skills & Tools
