@@ -78,6 +78,7 @@ Markup Languages:
 
 Stylesheet Languages:
 <code>CSS</code>
+<code>Sass</code>
 
 JavaScript Libraries:
 <code>React</code>
