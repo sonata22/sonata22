@@ -105,11 +105,11 @@ Operating Systems:
 <h3 align="center">Languages</h3>
 
 <p align="center">
-	English: Advanced<br>
-	Ukrainian: Native<br>
-	Russian: 2nd Native<br>
-	German: Elementary<br>
-	Finnish: Beginner<br>
+	English: <code>Advanced</code><br>
+	Ukrainian: <code>Native, 1st</code><br>
+	Russian: <code>Native, 2nd</code><br>
+	German: <code>Elementary</code><br>
+	Finnish: <code>Beginner</code><br>
 </p>
 
 ---
