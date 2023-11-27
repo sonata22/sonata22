@@ -146,9 +146,9 @@ Operating Systems:
 
 ---
 
-> ### Last Tech Books I've Read:
-
-<table>
+<details>	
+  <summary><b>📚 Last Tech Books I've Read</b></summary>
+	<table>
 	<tbody>
 		<tr>
 			<th>#</th>
@@ -170,56 +170,5 @@ Operating Systems:
 		</tr>
 	</tbody>
 </table>
-
-<!--
-<h2 align="center">Licenses & certifications</h2>
--->
-
-### Projects and Dev Stuffs:
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonata22&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonata22&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
-
-<details>	
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sonata22&hide_border=true" />
-</details>
-
-<details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Windows 11 Pro</li>
-	    <li><b>Laptop: </b> HP Pavilion</li>
-  	    <li><b>Browser: </b> Chrome</li>
-	    <!--<li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>-->
-	    <li><b>Code Editor:</b> VSCode</li>
- 	    <!--<li><b>Other Tools:</b> Postman, Notion, Bitwarden and Raindrop</li>-->
-	    <!--<li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>-->
-	</ul>
-</details>
-
-## 📘 My portfolio projects
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=BOF-frontend-advanced-project&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-  <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/sonata22"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=sonata22&repo=sonata22&bg_color=#FFFEFE&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-</p>
-
----
-
-<p align="center"> Created with 🧡 by <a href="https://github.com/sonata22">Nataliia Sosnovshchenko</a></p>
