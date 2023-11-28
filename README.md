@@ -89,6 +89,10 @@ Operating Systems:
 ---
 
 <details align="center">	
+  <summary><b>💯 My Absolute Favourites</b></summary>
+	<a href="https://cssbattle.dev/player/sonata22" target="_blank">cssbattle.dev</a>
+</details>
+<details align="center">	
   <summary><b>📚 Last Tech Books I've Read</b></summary>
 	<table align="center">
 	<tbody>
@@ -112,7 +116,6 @@ Operating Systems:
 		</tr>
 	</tbody>
 </table>
-  <br />
 </details>
 
 ---
