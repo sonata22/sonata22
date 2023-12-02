@@ -93,6 +93,8 @@ Operating Systems:
 	<a href="https://cssbattle.dev/player/sonata22" target="_blank">cssbattle.dev/sonata22</a>
 	<br>
 	<a href="https://www.codewars.com/users/sonata22" target="_blank">codewars.com/sonata22</a>
+	<br>
+	<a href="https://codepen.io/sonata22" target="_blank">codepen.io/sonata22</a>
 </details>
 <details align="center">	
   <summary><b>📚 Last Tech Books I've Read</b></summary>
