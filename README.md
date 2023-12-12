@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko:sparkles:</a></h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/sonata22/" target="_blank">Nataliia Sosnovshchenko :sparkles:</a></h1>
 
 <h3 align="center">
 Skills & Tools
