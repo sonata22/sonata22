@@ -76,6 +76,24 @@ Operating Systems:
 
 ---
 
+<h3 align="center">Here are several examples of my works</h3>
+
+<p align="center">
+	NFT Component Card: 
+	<a href="https://codepen.io/sonata22/full/GRzbdYZ" target="_blank">Demo</a> |
+	<a href="https://github.com/sonata22/nft-preview-card-component" target="_blank">Repo</a>
+	<br>
+	Shopping Cart Application:
+	<a href="https://bof-frontend-project-advanced-qpdtga5gj-sonata22.vercel.app/" target="_blank">Demo</a> |
+	<a href="https://github.com/sonata22/BOF-frontend-advanced-project" target="_blank">Repo</a>
+	<br>
+	Phonebook Application:
+	<a href="https://fullstack-part3-phonebook-piz7.onrender.com/" target="_blank">Demo</a> |
+	<a href="https://github.com/sonata22/FullStack_part3?tab=readme-ov-file" target="_blank">Repo</a>
+</p>
+
+---
+
 <h3 align="center">Languages</h3>
 
 <p align="center">
