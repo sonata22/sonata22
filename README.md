@@ -80,7 +80,7 @@ Operating Systems:
 
 <p align="center">
 	NFT Component Card: 
-	<a href="https://codepen.io/sonata22/full/GRzbdYZ" target="_blank">Demo</a> |
+	<a href="https://sonata22.github.io/nft-preview-card-component/" target="_blank">Demo</a> |
 	<a href="https://github.com/sonata22/nft-preview-card-component" target="_blank">Repo</a>
 	<br>
 	Shopping Cart Application:
