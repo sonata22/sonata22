@@ -21,6 +21,7 @@ Stylesheet Languages:
 JavaScript Libraries:
 <code>React</code>
 <code>Redux</code>
+<code>Jest</code>
 
 Runtime Environments:
 <code>Node.js</code>
