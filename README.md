@@ -19,9 +19,11 @@ Stylesheet Languages:
 <code>Sass</code>
 
 JavaScript Libraries:
-<code>React</code>
-<code>Redux</code>
-<code>Jest</code>
+<a href="https://react.dev/" target="_blank"><code>React</code></a>
+<a href="https://redux.js.org/" target="_blank"><code>Redux</code></a>
+<a href="https://jestjs.io/" target="_blank"><code>Jest</code></a>
+<a href="https://lodash.com/" target="_blank"><code>Lodash</code></a>
+
 
 Runtime Environments:
 <code>Node.js</code>
