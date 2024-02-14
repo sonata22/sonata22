@@ -38,9 +38,6 @@ Version Control Systems:
 <code><a href="https://git-scm.com/" target="_blank">git</a></code>
 
 Tools
-- Design:
-<code><a href="https://www.figma.com/" target="_blank">Figma</a></code>
-<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Photoshop</a></code>
 - API:
 <code><a href="https://www.postman.com/" target="_blank">Postman</a></code>
 <code><a href="https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm" target="_blank">Talend API Tester</a></code>
@@ -55,6 +52,9 @@ Tools
 <code><a href="https://www.testrail.com/" target="_blank">TestRail</a></code>
 - Network Packet Analyzers:
 <code><a href="https://www.wireshark.org/" target="_blank">Wireshark</a></code>
+- Design:
+<code><a href="https://www.figma.com/" target="_blank">Figma</a></code>
+<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Photoshop</a></code>
 - Other:
 <code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a> | <a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a></code>
 
