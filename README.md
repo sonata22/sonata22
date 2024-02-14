@@ -4,6 +4,9 @@
 Skills & Tools
 </h3>
 
+> [!TIP]
+> Further <code><a href="">Tool</a> | <a href="">usage ex.1</a> | <a href="">usage ex.2</a> | <a href="">etc.</a></code>
+
 Programming Languages:
 <code><a href="https://isocpp.org/" target="_blank">C++</a></code>
 <code><a href="https://developer.mozilla.org/en/JavaScript" target="_blank">JavaScript</a></code>
@@ -53,8 +56,7 @@ Tools
 - Network Packet Analyzers:
 <code><a href="https://www.wireshark.org/" target="_blank">Wireshark</a></code>
 - Other:
-<code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>
-<code><a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a></code>
+<code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a> | <a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a></code>
 
 IDE:
 <code>VS Code</code>
