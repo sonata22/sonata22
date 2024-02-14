@@ -59,10 +59,10 @@ Tools
 <code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a> | <a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a></code>
 
 IDE:
-<code>VS Code</code>
+<code><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></code>
 
 Code Collaboration Tools:
-<code><a href="https://code.visualstudio.com/" target="_blank">GitHub</a></code>
+<code><a href="https://github.com/" target="_blank">GitHub</a></code>
 <code><a href="https://www.gerritcodereview.com/" target="_blank">Gerrit</a></code>
 
 SDLC Models:
