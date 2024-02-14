@@ -15,33 +15,33 @@ Markup Languages:
 <code><a href="https://www.markdownguide.org/" target="_blank">Markdown</a></code>
 
 Stylesheet Languages:
-<code>CSS</code>
-<code>Sass</code>
+<code><a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">CSS</a></code>
+<code><a href="https://sass-lang.com/" target="_blank">Sass</a></code>
 
 JavaScript Libraries:
-<a href="https://react.dev/" target="_blank"><code>React</code></a>
-<a href="https://redux.js.org/" target="_blank"><code>Redux</code></a>
-<a href="https://jestjs.io/" target="_blank"><code>Jest</code></a>
-<a href="https://lodash.com/" target="_blank"><code>Lodash</code></a>
+<code><a href="https://react.dev/" target="_blank">React</a></code>
+<code><a href="https://redux.js.org/" target="_blank">Redux</a></code>
+<code><a href="https://jestjs.io/" target="_blank">Jest</a></code>
+<code><a href="https://lodash.com/" target="_blank">Lodash</a></code>
 
 
 Runtime Environments:
-<code>Node.js</code>
+<code><a href="https://nodejs.org/en" target="_blank">Node.js</a></code>
 
 Frameworks:
-<code>Material UI</code>
+<code><a href="https://mui.com/" target="_blank">Material UI</a></code>
 
 Version Control Systems:
-<code>git</code>
+<code><a href="https://git-scm.com/" target="_blank">git</a></code>
 
 Tools
 - Design:
-<code>Figma</code>
-<code>Photoshop</code>
+<code><a href="https://www.figma.com/" target="_blank">Figma</a></code>
+<code><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Photoshop</a></code>
 - API:
-<code>Postman</code>
-<code>Talend API Tester</code>
-<code>VS Code REST Client</code>
+<code><a href="https://www.postman.com/" target="_blank">Postman</a></code>
+<code><a href="https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm" target="_blank">Talend API Tester</a></code>
+<code><a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank">VS Code REST Client</a></code>
 - Databases:
 <code>MongoDB</code>
 <code>DBeaver</code>
