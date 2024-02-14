@@ -43,34 +43,29 @@ Tools
 <code><a href="https://chromewebstore.google.com/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm" target="_blank">Talend API Tester</a></code>
 <code><a href="https://marketplace.visualstudio.com/items?itemName=humao.rest-client" target="_blank">VS Code REST Client</a></code>
 - Databases:
-<code>MongoDB</code>
-<code>DBeaver</code>
-<code>Microsoft Access</code>
+<code><a href="https://www.mongodb.com/" target="_blank">MongoDB</a></code>
+<code><a href="https://dbeaver.io/" target="_blank">DBeaver</a></code>
+<code><a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank">Microsoft Access</a></code>
 - Project & Test Case Management:
-<code>Jira</code>
-<code>Zephyr for Jira</code>
-<code>TestRail</code>
+<code><a href="https://www.atlassian.com/software/jira" target="_blank">Jira</a></code>
+<code><a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud" target="_blank">Zephyr for Jira</a></code>
+<code><a href="https://www.testrail.com/" target="_blank">TestRail</a></code>
 - Network Packet Analyzers:
-<code>Wireshark</code>
+<code><a href="https://www.wireshark.org/" target="_blank">Wireshark</a></code>
 - Other:
-<code>Mermaid</code>
-	<sup>
- 		<a href="https://mermaid.js.org/#/" target="_blank">s</a>
- 	</sup>
-  	<sup>
-   		<a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a>
- 	</sup>
+<code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>
+<code><a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a></code>
 
 IDE:
 <code>VS Code</code>
 
 Code Collaboration Tools:
-<code>GitHub</code>
-<code>Gerrit</code>
+<code><a href="https://code.visualstudio.com/" target="_blank">GitHub</a></code>
+<code><a href="https://www.gerritcodereview.com/" target="_blank">Gerrit</a></code>
 
 SDLC Models:
-<code>Scrum</code>
-<code>Kanban</code>
+<code><a href="https://www.scrum.org/" target="_blank">Scrum</a></code>
+<code><a href="https://kanbanguides.org/" target="_blank">Kanban</a></code>
 
 Operating Systems:
 <code>Linux</code>
