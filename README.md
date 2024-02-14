@@ -5,7 +5,7 @@ Skills & Tools
 </h3>
 
 > [!TIP]
-> Further <code><a href="about:blank">Tool</a> | <a href="about:blank">usage ex.1</a> | <a href="about:blank">usage ex.2</a> | <a href="about:blank">etc.</a></code>
+> Further <code>Tool | usage ex.1 | usage ex.2 | etc.</code>
 
 Programming Languages:
 <code><a href="https://isocpp.org/" target="_blank">C++</a></code>
