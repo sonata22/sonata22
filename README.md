@@ -5,14 +5,14 @@ Skills & Tools
 </h3>
 
 Programming Languages:
-<code>C++</code>
-<code>JavaScript</code>
-<code>TypeScript</code>
-<code>Bash</code>
+<code><a href="https://isocpp.org/" target="_blank">C++</a></code>
+<code><a href="https://developer.mozilla.org/en/JavaScript" target="_blank">JavaScript</a></code>
+<code><a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a></code>
+<code><a href="http://www.gnu.org/software/bash/" target="_blank">Bash</a></code>
 
 Markup Languages:
-<code>HTML</code>
-<code>Markdown</code>
+<code><a href="html.spec.whatwg.org" targe="_blank">HTML</a></code>
+<code><a href="https://www.markdownguide.org/" target="_blank">Markdown</a></code>
 
 Stylesheet Languages:
 <code>CSS</code>
