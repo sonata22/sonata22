@@ -57,6 +57,7 @@ Tools
 <code><a href="https://www.adobe.com/products/photoshop.html" target="_blank">Photoshop</a></code>
 - Other:
 <code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a> | <a href="https://github.com/sonata22/FullStack_part0" target="_blank">1</a></code>
+<code><a href="https://www.docker.com/" target="_blank">Docker</a></code>
 
 IDE:
 <code><a href="https://code.visualstudio.com/" target="_blank">VS Code</a></code>
