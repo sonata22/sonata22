@@ -63,7 +63,7 @@ Contact Me
 </h3>
 
 <p align="center">
-	LinkedIn: <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko/" target="_blank">Nataliia Sosnovshchenko</a>
+	LinkedIn: <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko/" target="_blank">sonata22</a>
 	<br>
 	Email: <a href="mailto:nataliia.sosnovshchenko@gmail.com" target="_blank">nataliia.sosnovshchenko@gmail.com</a>
 </p>
