@@ -14,6 +14,7 @@ Basic Knowledge: Python, Java, AWS
 SDLC Models: Scrum, Kanban
 Operating Systems: Linux, Windows, MacOS, iOS
 ```
+
 ---
 
 <h3 align="center">Here are several examples of my works</h3>
@@ -36,13 +37,13 @@ Operating Systems: Linux, Windows, MacOS, iOS
 
 <h3 align="center">Languages</h3>
 
-<p align="center">
-	English: <code>Advanced</code><br>
-	Ukrainian: <code>1st</code> <code>Native</code><br>
-	Russian: <code>2nd</code> <code>Native</code><br>
-	German: <code>Elementary</code><br>
-	Finnish: <code>Beginner</code><br>
-</p>
+```
+English: Advanced
+Ukrainian: 1st Native
+Russian: 2nd Native
+German: Elementary
+Finnish: Beginner
+```
 
 ---
 
@@ -53,31 +54,6 @@ Operating Systems: Linux, Windows, MacOS, iOS
 	<a href="https://www.codewars.com/users/sonata22" target="_blank">codewars.com/sonata22</a>
 	<br>
 	<a href="https://codepen.io/sonata22" target="_blank">codepen.io/sonata22</a>
-</details>
-<details align="center">	
-  <summary><b>📚 Last Tech Books I've Read</b></summary>
-	<table align="center">
-	<tbody>
-		<tr>
-			<th>#</th>
-			<th>Title</th>
-			<th>Author</th>
-			<th>Date Finished</th>
-		</tr>
-		<tr>
-			<td><img src="https://github.com/getify/You-Dont-Know-JS/raw/1st-ed/up%20%26%20going/cover.jpg" alt=YDKJS_book1 height="55"/></td>
-			<td><a href="https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20%26%20going" target="_blank"><strong>You Don't Know JS: Up & Going</strong></a></td>
-			<td><em>Kyle Simpson</em></td>
-			<td>In Progress</td>
-		</tr>
-		<tr>
-			<td><img src="https://mdg.imgix.net/assets/images/book-cover.jpg?auto=format&fit=clip&q=40&w=1080" alt=theMarkdownGuide height="55"/></td>
-			<td><a href="https://github.com/mattcone/markdown-guide-book" target="_blank"><strong>The Markdown Guide</strong></a></td>
-			<td><em>By Matt Cone</em></td>
-			<td>September 22, 2023</td>
-		</tr>
-	</tbody>
-</table>
 </details>
 
 ---
