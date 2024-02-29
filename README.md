@@ -52,7 +52,6 @@ Other:
 <code>Figma</code>
 <code>Photoshop</code>
 <code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>
-<code></code>
 
 SDLC Models:
 <code>Scrum</code>
