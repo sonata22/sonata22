@@ -25,15 +25,19 @@ DevOps:
 <code>Docker</code>
 <code>GitHub</code>
 <code>Gerrit</code>
+<code>Jenkins</code>
 
 Testing:
 <code>Jira</code>
 <code>Zephyr for Jira</code>
+<code>YouTrack</code>
 <code>TestRail</code>
 <code>Postman</code>
 <code>Talend API Tester</code>
 <code>VS Code REST Client</code>
 <code>Wireshark</code>
+<code>Chrome Dev Tools</code>
+<code>Confluence</code>
 
 Test Automation:
 <code>CppUTest</code>
@@ -53,6 +57,13 @@ Other:
 <code>Figma</code>
 <code>Photoshop</code>
 <code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>
+<code>FileMerge</code>
+<code>Putty</code>
+
+Basic Knowledge:
+<code>Python</code>
+<code>Java</code>
+<code>AWS</code>
 
 SDLC Models:
 <code>Scrum</code>
