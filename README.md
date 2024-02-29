@@ -43,6 +43,7 @@ Test Automation:
 
 Databases:
 <code>MongoDB</code>
+<code>Mongoose</code>
 <code>DBeaver</code>
 <code>Microsoft Acess</code>
 
