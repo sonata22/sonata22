@@ -3,76 +3,76 @@ Skills & Tools
 </h3>
 
 Frontend:
-<code>JavaScript</code>
-<code>TypeScript</code>
-<code>HTML</code>
-<code>CSS</code>
-<code>Sass</code>
-<code>React</code>
-<code>Redux</code>
-<code>Node.js</code>
+<code>JavaScript</code>,
+<code>TypeScript</code>,
+<code>HTML</code>,
+<code>CSS</code>,
+<code>Sass</code>,
+<code>React</code>,
+<code>Redux</code>,
+<code>Node.js</code>,
 <code>Material UI</code>
 
 Backend:
-<code>C++</code>
-<code>JavaScript</code>
-<code>TypeScript</code>
+<code>C++</code>,
+<code>JavaScript</code>,
+<code>TypeScript</code>,
 <code>Node.js</code>
 
 DevOps:
-<code>Bash</code>
-<code>Git</code>
-<code>Docker</code>
-<code>GitHub</code>
-<code>Gerrit</code>
+<code>Bash</code>,
+<code>Git</code>,
+<code>Docker</code>,
+<code>GitHub</code>,
+<code>Gerrit</code>,
 <code>Jenkins</code>
 
 Testing:
-<code>Jira</code>
-<code>Zephyr for Jira</code>
-<code>YouTrack</code>
-<code>TestRail</code>
-<code>Postman</code>
-<code>Talend API Tester</code>
-<code>VS Code REST Client</code>
-<code>Wireshark</code>
-<code>Chrome Dev Tools</code>
+<code>Jira</code>,
+<code>Zephyr for Jira</code>,
+<code>YouTrack</code>,
+<code>TestRail</code>,
+<code>Postman</code>,
+<code>Talend API Tester</code>,
+<code>VS Code REST Client</code>,
+<code>Wireshark</code>,
+<code>Chrome Dev Tools</code>,
 <code>Confluence</code>
 
 Test Automation:
-<code>CppUTest</code>
-<code>Robocorp</code>
-<code>Jest</code>
+<code>CppUTest</code>,
+<code>Robocorp</code>,
+<code>Jest</code>,
 <code>Selenium</code>
 
 Databases:
-<code>MongoDB</code>
-<code>Mongoose</code>
-<code>DBeaver</code>
-<code>Microsoft Acess</code>
+<code>MongoDB</code>,
+<code>Mongoose</code>,
+<code>DBeaver</code>,
+<code>Microsoft Access</code>
 
 Other:
-<code><a href="https://www.markdownguide.org/" target="_blank">Markdown</a></code>
-<code>Lodash</code>
-<code>Figma</code>
-<code>Photoshop</code>
-<code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>
-<code>FileMerge</code>
+<code><a href="https://www.markdownguide.org/" target="_blank">Markdown</a></code>,
+<code>Lodash</code>,
+<code>Figma</code>,
+<code>Photoshop</code>,
+<code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>,
+<code>FileMerge</code>,
 <code>Putty</code>
 
 Basic Knowledge:
-<code>Python</code>
-<code>Java</code>
+<code>Python</code>,
+<code>Java</code>,
 <code>AWS</code>
 
 SDLC Models:
-<code>Scrum</code>
+<code>Scrum</code>,
 <code>Kanban</code>
 
 Operating Systems:
-<code>Linux</code>
-<code>Windows</code>
-<code>MacOS</code>
+<code>Linux</code>,
+<code>Windows</code>,
+<code>MacOS</code>,
 <code>iOS</code>
 
 ---
