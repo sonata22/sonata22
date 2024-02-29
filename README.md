@@ -2,79 +2,18 @@
 Skills & Tools
 </h3>
 
-Frontend:
-<code>JavaScript</code>,
-<code>TypeScript</code>,
-<code>HTML</code>,
-<code>CSS</code>,
-<code>Sass</code>,
-<code>React</code>,
-<code>Redux</code>,
-<code>Node.js</code>,
-<code>Material UI</code>
-
-Backend:
-<code>C++</code>,
-<code>JavaScript</code>,
-<code>TypeScript</code>,
-<code>Node.js</code>
-
-DevOps:
-<code>Bash</code>,
-<code>Git</code>,
-<code>Docker</code>,
-<code>GitHub</code>,
-<code>Gerrit</code>,
-<code>Jenkins</code>
-
-Testing:
-<code>Jira</code>,
-<code>Zephyr for Jira</code>,
-<code>YouTrack</code>,
-<code>TestRail</code>,
-<code>Postman</code>,
-<code>Talend API Tester</code>,
-<code>VS Code REST Client</code>,
-<code>Wireshark</code>,
-<code>Chrome Dev Tools</code>,
-<code>Confluence</code>
-
-Test Automation:
-<code>CppUTest</code>,
-<code>Robocorp</code>,
-<code>Jest</code>,
-<code>Selenium</code>
-
-Databases:
-<code>MongoDB</code>,
-<code>Mongoose</code>,
-<code>DBeaver</code>,
-<code>Microsoft Access</code>
-
-Other:
-<code><a href="https://www.markdownguide.org/" target="_blank">Markdown</a></code>,
-<code>Lodash</code>,
-<code>Figma</code>,
-<code>Photoshop</code>,
-<code><a href="https://mermaid.js.org/#/" target="_blank">Mermaid</a></code>,
-<code>FileMerge</code>,
-<code>Putty</code>
-
-Basic Knowledge:
-<code>Python</code>,
-<code>Java</code>,
-<code>AWS</code>
-
-SDLC Models:
-<code>Scrum</code>,
-<code>Kanban</code>
-
-Operating Systems:
-<code>Linux</code>,
-<code>Windows</code>,
-<code>MacOS</code>,
-<code>iOS</code>
-
+```
+Frontend: JavaScript, TypeScript, HTML, CSS, Sass, React, Redux, Node.js, Material UI
+Backend: C++, JavaScript, TypeScript, Node.js
+DevOps: Bash, Git, Docker, GitHub, Gerrit, Jenkins
+Testing: Jira, Zephyr for Jira, YouTrack, TestRail, Postman, Talend API Tester, VS Code REST Client, Wireshark, Chrome Dev Tools, Confluence
+Test Automation: CppUTest, Robocorp, Jest, Selenium
+Databases: MongoDb, Mongoose, DBeaver, Microsoft Access
+Other: Markdown, Lodash, Figma, Photoshop, Mermaid, FileMerge, Putty
+Basic Knowledge: Python, Java, AWS
+SDLC Models: Scrum, Kanban
+Operating Systems: Linux, Windows, MacOS, iOS
+```
 ---
 
 <h3 align="center">Here are several examples of my works</h3>
