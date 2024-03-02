@@ -8,7 +8,7 @@ Backend: C++, JavaScript, TypeScript, Node.js
 DevOps: Bash, Git, Docker, GitHub, Gerrit, Jenkins
 Testing: Jira, Zephyr for Jira, YouTrack, TestRail, Postman, Talend API Tester, VS Code REST Client, Wireshark, Chrome Dev Tools, Confluence
 Test Automation: CppUTest, Robocorp, Jest, Selenium
-Databases: MongoDb, Mongoose, DBeaver, Microsoft Access
+Databases: MongoDb, Mongoose, DBeaver, Microsoft Access, SQL
 Other: Markdown, Lodash, Figma, Photoshop, Mermaid, FileMerge, Putty
 Basic Knowledge: Python, Java, AWS
 SDLC Models: Scrum, Kanban
