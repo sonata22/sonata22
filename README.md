@@ -47,14 +47,13 @@ Finnish: Beginner
 
 ---
 
-<details align="center">	
-  <summary><b>💯 My Absolute Favourites</b></summary>
-	<a href="https://cssbattle.dev/player/sonata22" target="_blank">cssbattle.dev/sonata22</a>
-	<br>
-	<a href="https://www.codewars.com/users/sonata22" target="_blank">codewars.com/sonata22</a>
-	<br>
-	<a href="https://codepen.io/sonata22" target="_blank">codepen.io/sonata22</a>
-</details>
+<h3 align="center">Links</h3>
+<p align="center">
+	<a href="https://cssbattle.dev/player/sonata22" target="_blank">CSS Battle</a> |
+	<a href="https://www.codewars.com/users/sonata22" target="_blank">Codewars</a> |
+	<a href="https://codepen.io/sonata22" target="_blank">Codepen</a> |
+ 	<a href="https://leetcode.com/sonata22/" target="_blank">Leetcode</a>
+</p>
 
 ---
 
