@@ -15,10 +15,7 @@ SDLC Models: Scrum, Kanban
 Operating Systems: Linux, Windows, MacOS, iOS
 ```
 
----
-
-<h3 align="center">Here are several examples of my works</h3>
-
+<h3 align="center">Demos</h3>
 <p align="center">
 	NFT Component Card: 
 	<a href="https://sonata22.github.io/nft-preview-card-component/" target="_blank">Demo</a> |
@@ -35,19 +32,6 @@ Operating Systems: Linux, Windows, MacOS, iOS
 
 ---
 
-<h3 align="center">Languages</h3>
-
-```
-English: Advanced
-Ukrainian: 1st Native
-Russian: 2nd Native
-German: Elementary
-Finnish: Beginner
-```
-
----
-
-<h3 align="center">Links</h3>
 <p align="center">
 	<a href="https://cssbattle.dev/player/sonata22" target="_blank">CSS Battle</a> |
 	<a href="https://www.codewars.com/users/sonata22" target="_blank">Codewars</a> |
@@ -57,12 +41,8 @@ Finnish: Beginner
 
 ---
 
-<h3 align="center">
-Contact Me
-</h3>
-
 <p align="center">
-	LinkedIn: <a href="https://www.linkedin.com/in/nataliia-sosnovshchenko/" target="_blank">sonata22</a>
-	<br>
-	Email: <a href="mailto:nataliia.sosnovshchenko@gmail.com" target="_blank">nataliia.sosnovshchenko@gmail.com</a>
+	<a href="mailto:nataliia.sosnovshchenko@gmail.com" target="_blank">nataliia.sosnovshchenko@gmail.com</a>
+</br>
+	<a href="mailto:sonata24@proton.me" target="_blank">sonata24@proton.me</a>
 </p>
