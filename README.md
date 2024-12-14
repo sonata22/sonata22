@@ -1,4 +1,5 @@
-<!-- Skills & Tools
+<!--
+Skills & Tools
 ```
 Frontend: JavaScript, TypeScript, HTML, CSS, Sass, React, Redux, Node.js, Material UI
 Backend: C++, JavaScript, TypeScript, Node.js
@@ -10,7 +11,24 @@ Other: Markdown, Lodash, Figma, Photoshop, Mermaid, FileMerge, Putty
 Basic Knowledge: Python, Java, AWS
 SDLC Models: Scrum, Kanban
 Operating Systems: Linux, Windows, MacOS, iOS
-``` -->
+``` 
+
+<h3 align="center">Here are several examples of my works</h3>
+
+<p align="center">
+	NFT Component Card: 
+	<a href="https://sonata22.github.io/nft-preview-card-component/" target="_blank">Demo</a> |
+	<a href="https://github.com/sonata22/nft-preview-card-component" target="_blank">Repo</a>
+	<br>
+	Shopping Cart Application:
+	<a href="https://bof-frontend-project-advanced-qpdtga5gj-sonata22.vercel.app/" target="_blank">Demo</a> |
+	<a href="https://github.com/sonata22/BOF-frontend-advanced-project" target="_blank">Repo</a>
+	<br>
+	Phonebook Application:
+	<a href="https://fullstack-part3-phonebook-piz7.onrender.com/" target="_blank">Demo</a> |
+	<a href="https://github.com/sonata22/FullStack_part3?tab=readme-ov-file" target="_blank">Repo</a>
+</p>
+-->
 
 Links:
 
