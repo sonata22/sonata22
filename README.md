@@ -1,3 +1,4 @@
+...
 <!--
 Skills & Tools
 ```
@@ -30,6 +31,8 @@ Operating Systems: Linux, Windows, MacOS, iOS
 </p>
 -->
 
+
+<!--
 Links:
 
 [<img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" width="30"/>](https://cssbattle.dev/player/sonata22)
@@ -39,3 +42,4 @@ Links:
 [<img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" width="30"/>](https://www.codewars.com/users/sonata22)
 [<img src="https://academy.hackthebox.com/images/new-logo-htb.svg" width="30"/>](https://app.hackthebox.com/profile/2049263)
 [<img src="https://www.svgrepo.com/show/349323/codepen.svg" width="30"/>](https://codepen.io/sonata22)
+-->
