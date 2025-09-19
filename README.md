@@ -1,4 +1,3 @@
-...
 <!--
 Skills & Tools
 ```
@@ -43,3 +42,5 @@ Links:
 [<img src="https://academy.hackthebox.com/images/new-logo-htb.svg" width="30"/>](https://app.hackthebox.com/profile/2049263)
 [<img src="https://www.svgrepo.com/show/349323/codepen.svg" width="30"/>](https://codepen.io/sonata22)
 -->
+
+[![An image of @sonata22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonata22)](https://holopin.io/@sonata22)
