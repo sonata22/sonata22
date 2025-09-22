@@ -43,5 +43,6 @@ Links:
 [<img src="https://www.svgrepo.com/show/349323/codepen.svg" width="30"/>](https://codepen.io/sonata22)
 -->
 
-![sonata22's Stats](https://github-readme-stats.vercel.app/api?username=sonata22&theme=dark&show_icons=true&hide_border=true&count_private=true)
 [![An image of @sonata22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonata22)](https://holopin.io/@sonata22)
+![sonata22's Stats](https://github-readme-stats.vercel.app/api?username=sonata22&rank_icon=github&theme=dark&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonata22&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
