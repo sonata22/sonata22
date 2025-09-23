@@ -51,4 +51,6 @@ Links:
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sonata22&theme=dark" />
 </a>
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
