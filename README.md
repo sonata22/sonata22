@@ -58,7 +58,9 @@ Links:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   12 mins         ████████████▒░░░░░░░░░░░░   48.69 %
+Python     7 mins          ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+JSON       5 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.41 %
 ```
 
 <!--END_SECTION:waka-->
