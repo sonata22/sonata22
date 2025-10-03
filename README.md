@@ -24,20 +24,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonata22&rank_icon=github&theme=dark&show_icons=true&hide_border=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </a>
 
-## Code
-
-<!--START_SECTION:waka-->
-
-```txt
-Python       4 hrs 57 mins   █████████████████░░░░░░░░   67.91 %
-Markdown     1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
-JSON         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-HTML         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-```
-
-<!--END_SECTION:waka-->
-
-## Badges
+## Holopins
 
 [![An image of @sonata22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sonata22)](https://holopin.io/@sonata22)
