@@ -10,5 +10,7 @@
 
 ## Socials
 
+[leetcode](https://leetcode.com/u/sonata22/)
+[hackerrank](hackerrank.com/sonata22)
 [wakatime](https://wakatime.com/@sonata22)
 [holopin](https://www.holopin.io/@sonata22#badges)
