@@ -1,7 +1,7 @@
 ## Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonata22&rank_icon=github&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonata22&theme=dark&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sonata22&theme=dark&langs_count=5&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonata22&rank_icon=github&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=1000&custom_title=GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Holopins
 
