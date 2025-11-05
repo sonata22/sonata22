@@ -6,7 +6,7 @@
 ## Socials
 
 [leetcode](https://leetcode.com/u/sonata22/)
-[hackerrank](hackerrank.com/sonata22)
+[hackerrank](https://hackerrank.com/sonata22)
 [wakatime](https://wakatime.com/@sonata22)
 [codewars](https://www.codewars.com/users/sonata22)
 [cssbattle](https://cssbattle.dev/player/sonata22)
